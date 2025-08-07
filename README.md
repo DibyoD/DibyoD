@@ -1,8 +1,9 @@
 <!-- DoNotDibyo/README.md -->
 
 <p align="center">
-  <img src="images/profile_poster.png" alt="Mobile Application Developer" />
+  <img src="images/profile_poster.png" alt="Mobile Application Developer" width="800" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Dibyo Dhara</h1>
