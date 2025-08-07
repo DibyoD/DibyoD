@@ -1,6 +1,9 @@
 <!-- DoNotDibyo/README.md -->
 
-![logo](https://github.com/DoNotDibyo/DoNotDibyo/blob/main/background.jpeg)
+<p align="center">
+  <img src="images/profile_poster.png" alt="Mobile Application Developer" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Dibyo Dhara</h1>
 <h3 align="center">A passionate Flutter Developer & Tech Explorer from India</h3>
