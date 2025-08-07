@@ -1,7 +1,7 @@
 <!-- DoNotDibyo/README.md -->
 
 <p align="center">
-  <img src="images/profile_poster.png" alt="Mobile Application Developer" width="500" />
+  <img src="images/profile_poster.png" alt="Mobile Application Developer" style="width: 100%; max-height: 400px; object-fit: cover;" />
 </p>
 
 
