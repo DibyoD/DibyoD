@@ -29,7 +29,7 @@
 - 🛠️ Love building tools that help people build faster and smarter  
 - 🏆 Built production-level apps used by thousands  
 - 🌱 Exploring backend development with **Python**  
-- 📫 Reach me at: [dibyodhara@gmail.com](mailto:dibyodhara@gmail.com)
+- 📫 Reach me at: [work.dibyo@gmail.com](mailto:work.dibyo@gmail.com)
 
 ---
 
