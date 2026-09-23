@@ -1,24 +1,12 @@
-<!--
-  BANNER: drop your artwork at images/banner.png, then delete this comment
-  and the wrapper around the <img> below. Wide and monochrome works best,
-  roughly 1200x300, so it reads on both light and dark themes.
-
 <div align="center">
-  <img src="images/banner.png" width="100%" alt="" />
-</div>
--->
 
-<div align="center">
+<img src="images/banner.jpg" width="100%" alt="" />
 
 # Namaste 👋 I'm Dibyo
 
-**Software Developer**
-
-`kolkata, india`
+**Software Developer** · `kolkata, india` · <img src="https://komarev.com/ghpvc/?username=DibyoD&label=views&color=36BCF7&style=flat-square" alt="Profile views" valign="middle" />
 
 *Mobile apps, APIs, and the glue between.*
-
-<img src="https://komarev.com/ghpvc/?username=DibyoD&label=Views&color=36BCF7&style=flat-square" alt="Profile views" />
 
 </div>
 
