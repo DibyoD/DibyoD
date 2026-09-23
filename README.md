@@ -12,7 +12,7 @@
 
 ---
 
-## <img src="images/icons/user.svg" height="22" alt="" /> About Me
+## <img src="images/icons/about.svg" height="22" alt="" /> About Me
 
 <table>
 <tr>
@@ -43,7 +43,7 @@ open_to:   Side projects, open source
 
 ---
 
-## <img src="images/icons/link.svg" height="22" alt="" /> Connect
+## <img src="images/icons/contacts.svg" height="22" alt="" /> Connect
 
 <div align="center">
 
@@ -58,7 +58,7 @@ open_to:   Side projects, open source
 
 ---
 
-## <img src="images/icons/layers.svg" height="22" alt="" /> Tech Stack
+## <img src="images/icons/settings.svg" height="22" alt="" /> Tech Stack
 
 <div align="center">
 
@@ -84,7 +84,7 @@ open_to:   Side projects, open source
 
 ---
 
-## <img src="images/icons/package.svg" height="22" alt="" /> Projects (built mostly to avoid doing things twice)
+## <img src="images/icons/opened-folder.svg" height="22" alt="" /> Projects (built mostly to avoid doing things twice)
 
 | Project | Stack | What it is |
 | :--- | :--- | :--- |
@@ -98,7 +98,7 @@ open_to:   Side projects, open source
 
 ---
 
-## <img src="images/icons/bar-chart-3.svg" height="22" alt="" /> GitHub
+## <img src="images/icons/combo-chart.svg" height="22" alt="" /> GitHub
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DibyoD&theme=tokyonight" height="180" alt="Languages" />
