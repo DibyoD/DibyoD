@@ -88,13 +88,13 @@ open_to:   Side projects, open source
 
 | Project | Stack | What it is |
 | :--- | :--- | :--- |
-| [**Connectify**](https://github.com/DibyoD/Connectify) | Flutter · Firebase | Social app on Firebase. Real-time, because "pull to refresh for new messages" is not a feature |
-| [**flick_remote**](https://github.com/DibyoD/flick_remote) | Flutter | Turns your phone into a media remote. The real one lives between the couch cushions |
+| [**Connectify**](https://github.com/DibyoD/Connectify) | Flutter · Firebase | Real-time chat on Firebase Auth, because "pull to refresh for new messages" is not a feature |
+| [**flick_remote**](https://github.com/DibyoD/flick_remote) | Flutter | A Samsung TV remote for Android. The real one lives between the couch cushions |
 | [**buy-fakeshop**](https://github.com/DibyoD/buy-fakeshop) | Flutter | Storefront on the Fake Store API. Fake products, extremely real state management |
 | [**countries_info**](https://github.com/DibyoD/countries_info) | Flutter | Every country, via the REST Countries API. Quietly excellent at settling arguments |
-| [**fastapi-media-api**](https://github.com/DibyoD/fastapi-media-api) | Python · FastAPI | Media upload and serving, without parsing multipart by hand for the fifth time |
-| [**fastapi-postgres-crud**](https://github.com/DibyoD/fastapi-postgres-crud) | Python · FastAPI · Postgres | CRUD on Postgres. Four operations that quietly run most of the world |
-| [**slither-cli**](https://github.com/DibyoD/slither-cli) | Python | A terminal tool, because not everything deserves a browser tab |
+| [**fastapi-media-api**](https://github.com/DibyoD/fastapi-media-api) | Python · FastAPI · Streamlit | Social feed with auth and image/video uploads. FastAPI does the work, Streamlit does the looking |
+| [**fastapi-postgres-crud**](https://github.com/DibyoD/fastapi-postgres-crud) | Python · FastAPI · SQLAlchemy | CRUD on Postgres. Four operations that quietly run most of the world |
+| [**slither-cli**](https://github.com/DibyoD/slither-cli) | Python | A Snake game in your terminal. No account, no server, no config, just high scores saved next to the binary |
 
 ---
 
