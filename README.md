@@ -18,22 +18,22 @@
 <tr>
 <td width="58%" valign="top">
 
-Software developer from Kolkata, India. I build mobile apps and the backends that keep them honest: real-time chat and video, social login, offline-first sync.
+Software developer working across backend and mobile. I build production systems in Python with FastAPI, PostgreSQL and Docker, and ship Android and iOS apps in Flutter.
 
-I spend an unreasonable amount of time on the last 10% of polish, which is also the only part anyone ever notices.
+Backend modules I wrote run a factory floor platform (MES, PLC, EQMS) used daily by 1,000+ workers: 40+ REST endpoints, a configurable threshold-alert engine, and a pipeline ingesting 10GB of sensor data a day.
 
-Currently pushing further into backend architecture and AI integration, mostly by building things I wanted to exist and then discovering why they didn't.
+On mobile, shipped to the App Store and Play Store end to end. I spend an unreasonable amount of time on the last 10% of polish, which is also the only part anyone ever notices.
 
 </td>
 <td width="42%" valign="top">
 
 ```yaml
 role:      Software Developer
-focus:     Products that ship and scale
-stack:     Flutter · Dart · Firebase
-           Python · FastAPI
-exploring: Backend architecture
-           AI integration, micro-SaaS
+backend:   FastAPI · PostgreSQL · Redis
+           Docker · Keycloak · MinIO
+mobile:    Flutter · Firebase · Supabase
+scale:     1,000+ daily users
+           10GB sensor data/day
 open_to:   Side projects, open source
 ```
 
@@ -62,17 +62,23 @@ open_to:   Side projects, open source
 
 <div align="center">
 
-**Mobile**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin&theme=dark" alt="Mobile stack" />
+<img src="https://skillicons.dev/icons?i=python,dart,java,c&theme=dark" alt="Languages" />
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,firebase,postgres,mysql,sqlite&theme=dark" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,firebase,supabase&theme=dark" alt="Backend stack" />
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark" alt="Mobile stack" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+
+<sub>Keycloak · MinIO · Prefect · WebSockets · Razorpay · Stripe · Google Maps · GetX · Provider · PGAdmin · Xcode · FVM · TestFlight</sub>
 
 </div>
 
