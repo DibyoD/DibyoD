@@ -102,16 +102,6 @@ open_to:   Side projects, open source
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DibyoD&theme=tokyonight" height="180" alt="Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DibyoD&theme=tokyonight" height="180" alt="Most committed languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DibyoD&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DibyoD&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DibyoD&theme=tokyonight" height="180" alt="Profile stats" />
 </div>
 
 <div align="center">
