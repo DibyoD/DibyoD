@@ -1,40 +1,40 @@
 <div align="center">
-  <img src="images/profile_poster.png" alt="Dibyo Dhara — Flutter Developer" width="100%" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Flutter+Developer+%26+App+Architect;Real-time+video%2C+chat+%26+social+features;Offline-first+apps+with+seamless+UX;Exploring+Python+backends+%26+AI" alt="Typing SVG" />
-</div>
+# Dibyo Dhara
 
-<div align="center">
-  <a href="https://dibyodhara.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/dibyo-dhara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.hackerrank.com/profile/dibyodhara1998"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="mailto:work.dibyo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=DibyoD&label=Views&color=36BCF7&style=flat-square" alt="Profile views" />
+`software developer` · `kolkata, india`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=580&lines=Mobile+apps%2C+APIs%2C+and+the+glue+between;Real-time+video%2C+chat+%26+social+auth;Offline-first+by+default;Exploring+AI+integration+%26+micro-SaaS" alt="What I do" />
+
+<a href="https://dibyodhara.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/dibyo-dhara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.hackerrank.com/profile/dibyodhara1998"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+<a href="mailto:work.dibyo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=DibyoD&label=Views&color=36BCF7&style=flat-square" alt="Profile views" />
+
 </div>
 
 <br />
 
 ## About
 
-Flutter developer at **Cloudifyapps**, based in Kolkata, India. I build production mobile apps — real-time chat and video, social login, offline-first sync — and care a lot about the last 10% of UI polish.
+Software developer based in Kolkata, India. I build mobile apps and the backends behind them: real-time chat and video, social login, offline-first sync. Most of my time goes into the last 10% of polish, the part people actually feel.
 
 ```yaml
-role:      Flutter Developer · App Architect
-focus:     Mobile apps that ship and scale
+role:      Software Developer
+focus:     Products that ship and scale
 stack:     Flutter · Dart · Firebase · Python · FastAPI
-exploring: Backend development, AI integration, micro-SaaS
-open_to:   Collaboration on Flutter & indie projects
+exploring: Backend architecture, AI integration, micro-SaaS
+open_to:   Collaboration on side projects and open source
 ```
 
 <br />
 
 ## What I Build
 
-| Production apps | Real-time systems | Offline-first UX | AI integration |
+| Production apps | Real-time systems | Offline-first UX | APIs & services |
 | :--- | :--- | :--- | :--- |
-| Scalable architecture, shipped to real users | Video calls, live chat, social auth | Works with or without a connection | Bringing AI into mobile experiences |
+| Scalable architecture, shipped to real users | Video calls, live chat, social auth | Works with or without a connection | REST backends with Python and FastAPI |
 
 <br />
 
@@ -97,7 +97,5 @@ open_to:   Collaboration on Flutter & indie projects
 <br />
 
 <div align="center">
-  <sub>Open to collaborating on Flutter projects and interesting backend problems — <a href="mailto:work.dibyo@gmail.com">work.dibyo@gmail.com</a></sub>
+  <sub>Open to collaborating on interesting problems. Reach me at <a href="mailto:work.dibyo@gmail.com">work.dibyo@gmail.com</a></sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" width="100%" alt="" />
