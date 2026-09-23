@@ -16,7 +16,7 @@
 
 `kolkata, india`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=580&lines=Mobile+apps%2C+APIs%2C+and+the+glue+between;Real-time+video%2C+chat+%26+social+auth;Offline-first+by+default;Exploring+AI+integration+%26+micro-SaaS" alt="What I do" />
+*Mobile apps, APIs, and the glue between.*
 
 <img src="https://komarev.com/ghpvc/?username=DibyoD&label=Views&color=36BCF7&style=flat-square" alt="Profile views" />
 
