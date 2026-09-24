@@ -2,7 +2,7 @@
 
 <img src="images/banner.jpg" width="100%" alt="" />
 
-# Namaste, I'm Dibyo
+# I'm Dibyo. Not a hero. Just a guy who ships with maximum effort and minimum boilerplate.
 
 **Software Developer** · <img src="https://komarev.com/ghpvc/?username=DibyoD&label=views&color=36BCF7&style=flat-square" alt="Profile views" valign="middle" />
 
